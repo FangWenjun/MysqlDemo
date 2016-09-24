@@ -1,0 +1,6 @@
+D:\Repos\MysqlDemo\MysqlDemo\bin\Debug\MysqlDemo.exe.config
+D:\Repos\MysqlDemo\MysqlDemo\bin\Debug\MysqlDemo.exe
+D:\Repos\MysqlDemo\MysqlDemo\bin\Debug\MysqlDemo.pdb
+D:\Repos\MysqlDemo\MysqlDemo\obj\Debug\MysqlDemo.csprojResolveAssemblyReference.cache
+D:\Repos\MysqlDemo\MysqlDemo\obj\Debug\MysqlDemo.exe
+D:\Repos\MysqlDemo\MysqlDemo\obj\Debug\MysqlDemo.pdb
